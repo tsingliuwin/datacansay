@@ -1,0 +1,5 @@
+theme: readthedocs
+site_url: https://data.eshop88.cn
+site_name: 数据会说话
+nav:
+- 主页: index.md
