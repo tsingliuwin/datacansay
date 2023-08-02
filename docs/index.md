@@ -1,3 +1,12 @@
+---
+home: true
+heroText: 数据会说话
+tagline: 记录对数据的所思、所想
+# actions:
+#     - text: 立即阅读
+#       link: /hello/
+---
+
 刀郎的《罗刹海市》火了，火的一塌糊涂。
 
 十年努力，曾经的一切诋毁都瞬间化为乌有。

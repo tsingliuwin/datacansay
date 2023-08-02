@@ -1,2 +1,5 @@
-# datacansay
-数据会说话
+---
+home: true
+---
+
+asdfasdf
